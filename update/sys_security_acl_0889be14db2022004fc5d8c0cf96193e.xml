@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-07-07 14:31:53</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0889be14db2022004fc5d8c0cf96193e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_8420_k16_2_lab2</sys_name>
