@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-07-07 14:31:53</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>8c89be14db2022004fc5d8c0cf96193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_8420_k16_2_lab2.x_8420_k16_2.user</sys_name>
+        <sys_package display_value="K16_2" source="x_8420_k16_2">2b793e90db2022004fc5d8c0cf96198f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="K16_2">2b793e90db2022004fc5d8c0cf96198f</sys_scope>
+        <sys_security_acl display_value="x_8420_k16_2_lab2">c089be14db2022004fc5d8c0cf96193d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8c89be14db2022004fc5d8c0cf96193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-07-07 14:31:53</sys_updated_on>
+        <sys_user_role display_value="x_8420_k16_2.user" name="x_8420_k16_2.user">bb79be14db2022004fc5d8c0cf961939</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Lab2" language="en" table="x_8420_k16_2_lab2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Lab2</label>
+            <language>en</language>
+            <name>x_8420_k16_2_lab2</name>
+            <plural>Lab2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-07 14:31:54</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d489be14db2022004fc5d8c0cf961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Lab2</sys_name>
+            <sys_package display_value="K16_2" source="x_8420_k16_2">2b793e90db2022004fc5d8c0cf96198f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="K16_2">2b793e90db2022004fc5d8c0cf96198f</sys_scope>
+            <sys_update_name>sys_documentation_x_8420_k16_2_lab2__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-07 14:31:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

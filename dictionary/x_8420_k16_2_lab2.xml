@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Lab2" max_length="40" name="x_8420_k16_2_lab2" type="collection"/>
+</database>
